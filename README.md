@@ -1,2 +1,37 @@
 # Note_Taker
-A simple not taker app for organizing tasks
+
+## Description
+A simple app for taking notes
+
+## Table of Contents
+
+[Installation]
+
+[How to Use]
+
+[Contributors]
+
+[Tests]
+
+[Licesne]
+
+## Installation
+There are no specific Instalaltion instructions for this app.
+
+## How to Use
+To use this app you clone the repo and start the server
+
+## Contributors
+This porjects uses Express and uuid
+
+## Tests
+There are currently no tests for this app
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+
+
+

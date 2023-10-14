@@ -5,15 +5,16 @@ A simple app for taking notes
 
 ## Table of Contents
 
-[Installation]
+[Installation](#installation)
 
-[How to Use]
+[How to Use](#how-to-use)
 
-[Contributors]
+[Contributors](#contributors)
 
-[Tests]
+[Tests](#tests)
 
-[Licesne]
+[License](#license)
+
 
 ## Installation
 There are no specific Instalaltion instructions for this app.
